@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\equipeesport\bin\Debug\net6.0\equipeesport.exe
+C:\Users\Aluno\Desktop\equipeesport\bin\Debug\net6.0\equipeesport.deps.json
+C:\Users\Aluno\Desktop\equipeesport\bin\Debug\net6.0\equipeesport.runtimeconfig.json
+C:\Users\Aluno\Desktop\equipeesport\bin\Debug\net6.0\equipeesport.dll
+C:\Users\Aluno\Desktop\equipeesport\bin\Debug\net6.0\equipeesport.pdb
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.dll
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\refint\equipeesport.dll
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.pdb
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\equipeesport.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\equipeesport\obj\Debug\net6.0\ref\equipeesport.dll
